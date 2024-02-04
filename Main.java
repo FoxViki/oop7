@@ -4,7 +4,8 @@ import view.InConsole;
 public class Main {
     public static void main(String[] args) {
         Calculation calculation = new Calculation();
-        InConsole viewResult (20, 6, "+");
+        InConsole viewResult = new InConsole();
+        viewResult.viewResult (20, 6, "+");
 
 
     }
