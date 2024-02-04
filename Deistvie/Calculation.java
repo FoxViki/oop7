@@ -1,6 +1,7 @@
 package Deistvie;
 
-import DataMethods.Operation;
+
+import Methods.Operation;
 import Vybor.OperationSelect;
 
 public class Calculation {

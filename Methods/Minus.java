@@ -1,3 +1,5 @@
+package Methods;
+
 import java.util.logging.Logger;
 
 public class Minus implements Operation {
@@ -9,4 +11,3 @@ public class Minus implements Operation {
         return result;
     }
 }
-

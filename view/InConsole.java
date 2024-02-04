@@ -1,5 +1,4 @@
 package view;
-
 import Deistvie.Calculation;
 
 import static java.lang.System.*;

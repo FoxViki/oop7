@@ -1,3 +1,5 @@
+package Methods;
+
 import java.util.logging.Logger;
 
 public class Umnozh implements Operation{

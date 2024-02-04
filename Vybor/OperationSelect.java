@@ -1,14 +1,10 @@
 package Vybor;
 
-
-
 import Methods.Operation;
 import Methods.Summa;
 import Methods.Minus;
 import Methods.Umnozh;
 import Methods.Delenie;
-
-
 
 import java.util.logging.Logger;
 
